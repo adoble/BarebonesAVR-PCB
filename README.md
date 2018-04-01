@@ -2,16 +2,18 @@
 
 A basic ATMega328P circuit that can be programmed with:
 - an AVR programmer over a 6 pin ISP connection
-- if the ATMega328P has an Arduino bootloader already loaded then over an FTDI connection
+- if the ATMega328P has an Arduino bootloader already loaded, then over an FTDI connection
+
+The [KiCAD](http://kicad-pcb.org/) files are stored under [kicad](kicad).
 
 ## Circuit
 
 The circuit is for a TQFB package (SMD).
 
-*Circuit diagram here - t.b.d*
+![Schematic](img/Schematic.png))
 
-*The original KiCAD files will be stored under [kicad](/kicad). t.b.d*
+
 
 ## PCB Layout
 
-T.B.B
+![PCB Layout](img/PCB_Layout.png)
