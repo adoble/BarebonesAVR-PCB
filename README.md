@@ -10,10 +10,10 @@ The [KiCAD](http://kicad-pcb.org/) files are stored under [kicad](kicad).
 
 The circuit is for a TQFB package (SMD).
 
-![Schematic](img/Schematic.png))
+![Schematic](/img/Schematic.png))
 
 
 
 ## PCB Layout
 
-![PCB Layout](img/PCB_Layout.png)
+![PCB Layout](/img/PCB_Layout.png)
