@@ -3,7 +3,7 @@
   (general
     (links 55)
     (no_connects 0)
-    (area 126.187999 104.343999 175.310001 129.336001)
+    (area 125.794999 101.795 176.625 131.985)
     (thickness 1.6)
     (drawings 51)
     (tracks 442)
@@ -837,7 +837,7 @@
   (gr_text Aref (at 139.7 108.712) (layer F.SilkS)
     (effects (font (size 0.6 1) (thickness 0.15)))
   )
-  (gr_text Vcc (at 135.128 106.68 90) (layer F.SilkS)
+  (gr_text 3.3V (at 135.128 106.68 90) (layer F.SilkS)
     (effects (font (size 0.6 1) (thickness 0.15)))
   )
   (gr_text 1 (at 139.7 124.968) (layer F.SilkS)
