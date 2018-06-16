@@ -302,7 +302,7 @@ L R R2
 U 1 1 5AA446A5
 P 5400 5000
 F 0 "R2" V 5480 5000 50  0000 C CNN
-F 1 "10K" V 5400 5000 50  0000 C CNN
+F 1 "0" V 5400 5000 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 5330 5000 50  0001 C CNN
 F 3 "" H 5400 5000 50  0000 C CNN
 	1    5400 5000
@@ -682,4 +682,14 @@ Text Label 2800 7300 1    60   ~ 0
 RXD
 Text Label 2900 7300 1    60   ~ 0
 TXD
+Text Notes 4450 5050 0    60   ~ 0
+Corrected mistake
+Wire Notes Line
+	5500 4850 5500 5150
+Wire Notes Line
+	5500 5150 4400 5150
+Wire Notes Line
+	4400 5150 4400 4850
+Wire Notes Line
+	4400 4850 5500 4850
 $EndSCHEMATC
