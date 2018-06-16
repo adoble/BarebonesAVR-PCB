@@ -36,8 +36,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "BarebonesAVR-PCB"
-Date "2018-03-10"
-Rev "1"
+Date "2018-06-16"
+Rev "1.1"
 Comp ""
 Comment1 "Design: Andrew Doble"
 Comment2 "PCB version using TQFP package for the ATMEGA328"
